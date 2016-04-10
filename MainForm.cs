@@ -107,7 +107,7 @@ namespace View
 
         }
 
-
+        // Создание строк
         private void ButtonCreate_Click(object sender, EventArgs e)
         {
             var figureForm = new FigureForm();
