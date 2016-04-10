@@ -26,7 +26,7 @@ namespace View
             CreateColumns();
             
         }
-
+        // Создание столбцов
         private void CreateColumns()
         {
             _tablefigure = new DataTable();
