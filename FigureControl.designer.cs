@@ -115,14 +115,14 @@
             // 
             // BallBox
             // 
-            this.BallBox.Location = new System.Drawing.Point(71, 126);
+            this.BallBox.Location = new System.Drawing.Point(84, 126);
             this.BallBox.Name = "BallBox";
             this.BallBox.Size = new System.Drawing.Size(100, 20);
             this.BallBox.TabIndex = 3;
             // 
             // PyrBox
             // 
-            this.PyrBox.Location = new System.Drawing.Point(91, 182);
+            this.PyrBox.Location = new System.Drawing.Point(84, 182);
             this.PyrBox.Name = "PyrBox";
             this.PyrBox.Size = new System.Drawing.Size(100, 20);
             this.PyrBox.TabIndex = 4;
@@ -131,7 +131,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(37, 105);
+            this.label1.Location = new System.Drawing.Point(7, 105);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(31, 13);
             this.label1.TabIndex = 5;
@@ -150,7 +150,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(37, 159);
+            this.label3.Location = new System.Drawing.Point(7, 159);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(62, 13);
             this.label3.TabIndex = 7;
@@ -168,7 +168,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(3, 217);
+            this.label5.Location = new System.Drawing.Point(7, 217);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(71, 13);
             this.label5.TabIndex = 9;
@@ -177,7 +177,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(37, 253);
+            this.label6.Location = new System.Drawing.Point(7, 248);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(96, 13);
             this.label6.TabIndex = 10;
@@ -212,28 +212,28 @@
             // 
             // PyrBox2
             // 
-            this.PyrBox2.Location = new System.Drawing.Point(91, 217);
+            this.PyrBox2.Location = new System.Drawing.Point(84, 217);
             this.PyrBox2.Name = "PyrBox2";
             this.PyrBox2.Size = new System.Drawing.Size(100, 20);
             this.PyrBox2.TabIndex = 14;
             // 
             // ABox
             // 
-            this.ABox.Location = new System.Drawing.Point(54, 274);
+            this.ABox.Location = new System.Drawing.Point(84, 274);
             this.ABox.Name = "ABox";
             this.ABox.Size = new System.Drawing.Size(100, 20);
             this.ABox.TabIndex = 15;
             // 
             // BBox
             // 
-            this.BBox.Location = new System.Drawing.Point(54, 306);
+            this.BBox.Location = new System.Drawing.Point(84, 306);
             this.BBox.Name = "BBox";
             this.BBox.Size = new System.Drawing.Size(100, 20);
             this.BBox.TabIndex = 16;
             // 
             // CBox
             // 
-            this.CBox.Location = new System.Drawing.Point(54, 338);
+            this.CBox.Location = new System.Drawing.Point(84, 338);
             this.CBox.Name = "CBox";
             this.CBox.Size = new System.Drawing.Size(100, 20);
             this.CBox.TabIndex = 17;
